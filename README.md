@@ -1,6 +1,6 @@
 # 🐲 Unleash the Dragon CI 🐲
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/marwantamermo/Cowsay-CI-CD/main.yml?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MarwanTamerMo/Cowsay-CI-CD/main.yml?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Self-Hosted Runner](https://img.shields.io/badge/runner-self--hosted-blueviolet?style=for-the-badge)
 
 Welcome! This project summons a mighty ASCII dragon using the power of **GitHub Actions** and a **self-hosted runner** on your very own machine. 🖥️🔥
